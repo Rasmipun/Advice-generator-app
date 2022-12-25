@@ -10,4 +10,4 @@ async function getAdvice() {
 }
 
 getAdvice()
-adviceButton.addEventListener("click",getAdvice)
+adviceButton.addEventListener("click",getAdvice)gi
